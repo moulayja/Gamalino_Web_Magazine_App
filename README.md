@@ -1,6 +1,6 @@
 # Project_Final_Version_Details:
 
-// Preview_Link: https://youtu.be/3gdXWavc1AY
+// Preview_Link: { https://youtu.be/3gdXWavc1AY }
 
 // Rails Backend API project to establish the relationships between authors and readers:
 
