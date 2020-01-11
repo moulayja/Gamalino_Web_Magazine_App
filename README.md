@@ -1,10 +1,57 @@
-# Project_Final_Version_Details:
+# Gamalino Magazine
+ Web platform app for authors to post their articles and receive comments from readers
 
-// Preview_Link: { https://youtu.be/3gdXWavc1AY }
+## Table of Contents
 
-// Rails Backend API project to establish the relationships between authors and readers:
+- [App Preview](#app-preview)
+- [Collaborators](#collaborators)
+- [Project Description](#project-description)
+- [Technologies](#technologies)
+- [Getting Started](#getting-started)
 
-+ Built a Rails Backend API to establish relationships between Authors, and Readers' comments.
-+ Implemented User authentication using Bcrypt.
-+ Utilized RESTful architecture for CRUD actions.
-+ Used Rails with SQLite as a backend API.
+#### Project Status: [Completed]
+Final Version
+
+## App Preview
+[For a full demo, click here](https://youtu.be/3gdXWavc1AY)
+
+## Collaborators
+| Name | Github Page |
+| --- | --- |
+| Jamal Farah | [Profile Page](https://github.com/moulayja) |
+
+
+## Project Description
+#### Overview:
+
+The idea is to create a magazine app with categories, the visiting user can leave comments without removing or editing.
+
+The author has full access to remove written comments, he can also Create, Read, Update and Delete (CRUD).
+
+You can also Sign Up as an author to start writing articles and post them.
+#### Challenges:
+ Using SQLite made a bit of issue, I have to rake instead of using rails, but I overcome that to create my final version successfully.
+
+
+## Technologies
+- Rails API for the Back-end
+- SQLite as a backend Database-API
+- RESTful architecture for CRUD actions
+- Mixed of Bootstrap & CSS
+- User authentication using Bcrypt
+
+## Getting Started
+1. Clone this repo
+2. Cd to the project file
+   ```bash
+      $rake db:reset && rails s -p 3000
+   ```
+3. in your browser open
+
+   ```bash
+      http://localhost:3000/
+   ```
+4. Now you can Sign up to post articles
+
+5. Keep posting and editing by Sign in
+
