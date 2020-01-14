@@ -4,7 +4,7 @@
  [![jamalino](https://img.shields.io/badge/Project%20Status-Completed-brightgreen?style=for-the-badge&logo=appveyor
 )](https://github.com/moulayja/)
 
-[![jamalino](https://img.shields.io/badge/Completion-100%25-blue)](https://github.com/moulayja/Gamalino_Web_Magazine_App/master/README.md)
+[![jamalino](https://img.shields.io/badge/Completion-100%25-blue)](https://github.com/moulayja/Gamalino_Web_Magazine_App)
 
 ## Table of Contents
 
