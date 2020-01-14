@@ -14,9 +14,6 @@
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
 
-#### Project Status: [Completed]
-Final Version
-
 ## App Preview
 [For a full demo, click here](https://youtu.be/3gdXWavc1AY)
 
