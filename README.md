@@ -15,7 +15,7 @@
 - [Getting Started](#getting-started)
 
 ## App Preview
-[For a full demo, click here](https://youtu.be/3gdXWavc1AY)
+[For a full demo, click here](https://gamalino.herokuapp.com/)
 
 ## Collaborators
 | Name | Github Page |
